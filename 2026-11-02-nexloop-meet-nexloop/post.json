@@ -1,0 +1,109 @@
+{
+ "theme": "nexloop",
+ "handle": "@nexloop.io",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Meet NexLoop",
+   "title": "We build\\n*intelligent systems.*",
+   "sub": "Websites, apps and AI automation for growing businesses.",
+   "alt": "Cover: Meet NexLoop. We build intelligent systems. Websites, apps and AI automation for growing businesses."
+  },
+  {
+   "type": "text",
+   "bg": "alt",
+   "kicker": "Who we are",
+   "title": "Agency *and*\\nproduct builders.",
+   "body": "We design and build software for businesses, and we run two live products of our own: Tapmore and TouchGrass.",
+   "alt": "NexLoop is an agency and product builder: it builds software for businesses and runs two live products, Tapmore and TouchGrass."
+  },
+  {
+   "type": "grid",
+   "kicker": "What we build",
+   "title": "Everything your *business runs on*",
+   "cards": [
+    {
+     "icon": "globe",
+     "t": "Websites",
+     "s": "Fast sites built on Next.js."
+    },
+    {
+     "icon": "phone",
+     "t": "Mobile apps",
+     "s": "For your customers or your team."
+    },
+    {
+     "icon": "bot",
+     "t": "AI chatbots & voice agents",
+     "s": "Answer questions, any hour."
+    },
+    {
+     "icon": "whatsapp",
+     "t": "WhatsApp automation",
+     "s": "Messages that send themselves."
+    }
+   ],
+   "alt": "What NexLoop builds: websites on Next.js, mobile apps, AI chatbots and voice agents, WhatsApp automation."
+  },
+  {
+   "type": "list",
+   "kicker": "How we help",
+   "title": "Less busywork. *More business.*",
+   "items": [
+    {
+     "t": "Get found online",
+     "s": "A clean website that works on every phone."
+    },
+    {
+     "t": "Never miss a customer",
+     "s": "Chatbots and voice agents that reply for you."
+    },
+    {
+     "t": "Stop repeating yourself",
+     "s": "Automate reminders, follow-ups and updates."
+    },
+    {
+     "t": "Run it from one place",
+     "s": "Custom apps built around how you work."
+    }
+   ],
+   "alt": "How NexLoop helps: get found online, never miss a customer, automate repeat work, run it from one place."
+  },
+  {
+   "type": "list",
+   "bg": "dark",
+   "kicker": "Built by us",
+   "title": "We use *what we build*",
+   "items": [
+    {
+     "t": "Tapmore",
+     "s": "One QR code page for cafés, shops, salons and clinics."
+    },
+    {
+     "t": "TouchGrass",
+     "s": "Book football, cricket and badminton games in Nashik."
+    },
+    {
+     "t": "Client work",
+     "s": "Websites for Vighnaharta Engineers and DTBM."
+    }
+   ],
+   "alt": "Built by NexLoop: Tapmore, a QR page for local businesses; TouchGrass, sports booking in Nashik; client websites for Vighnaharta Engineers and DTBM."
+  },
+  {
+   "type": "cta",
+   "kicker": "Have an idea or a problem?",
+   "title": "Book a\\n*call.*",
+   "sub": "Tell us what slows you down. We'll show you what we'd build.",
+   "chips": [
+    "Websites",
+    "Apps",
+    "AI automation",
+    "WhatsApp"
+   ],
+   "qr": "https://nexloop.in",
+   "link": "nexloop.in",
+   "alt": "Book a call with NexLoop. QR code to nexloop.in."
+  }
+ ]
+}
