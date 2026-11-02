@@ -1,0 +1,151 @@
+{
+ "theme": "tapmore",
+ "handle": "@nexloop.io",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "For café, salon & shop owners",
+   "title": "Your regulars walk out.\\n*You never learn their names.*",
+   "alt": "Cover: Your regulars walk out. You never learn their names."
+  },
+  {
+   "type": "text",
+   "kicker": "The quiet problem",
+   "title": "Most guests who love your place *never tell you.*",
+   "body": "No review. No sign-up. They just stop coming one day, and you never find out why.",
+   "alt": "Most guests who love your place never tell you. They just stop coming."
+  },
+  {
+   "type": "list",
+   "kicker": "Where it leaks",
+   "title": "4 small leaks *costing you regulars*",
+   "items": [
+    {
+     "t": "Paper stamp cards get lost",
+     "s": "No card, no reason to come back."
+    },
+    {
+     "t": "Unhappy guests tell Google, not you",
+     "s": "You find out after it's public."
+    },
+    {
+     "t": "“What's the Wi-Fi password?”",
+     "s": "Asked again and again at a busy counter."
+    },
+    {
+     "t": "Reprinting menus for every price change",
+     "s": "Or living with crossed-out prices."
+    }
+   ],
+   "alt": "Four leaks: lost stamp cards, complaints on Google, Wi-Fi questions, menu reprints."
+  },
+  {
+   "type": "phone",
+   "bg": "accent",
+   "kicker": "The fix",
+   "title": "One QR code *fixes all four.*",
+   "body": "Menu, stamp card, Wi-Fi, feedback and reviews. One page that looks like your place. No app to download.",
+   "screen": {
+    "name": "Brew & Co.",
+    "tagline": "Coffee · Brunch",
+    "rows": [
+     {
+      "kind": "stamps",
+      "on": 6,
+      "of": 8,
+      "label": "2 more for a free coffee"
+     },
+     {
+      "kind": "wifi",
+      "ssid": "BrewCo_Guest"
+     },
+     {
+      "kind": "menu",
+      "items": [
+       [
+        "Cold brew",
+        "₹180"
+       ],
+       [
+        "Masala chai",
+        "₹90"
+       ],
+       [
+        "Avocado toast",
+        "₹260"
+       ]
+      ]
+     },
+     {
+      "kind": "rating",
+      "label": "How was your visit?"
+     }
+    ]
+   },
+   "alt": "Illustration of a Tapmore page on a phone with stamp card, Wi-Fi, menu and rating."
+  },
+  {
+   "type": "grid",
+   "kicker": "What changes",
+   "title": "Small things, *done for you*",
+   "cards": [
+    {
+     "icon": "menu",
+     "t": "Menu changes in seconds",
+     "s": "Same printed QR, latest prices."
+    },
+    {
+     "icon": "stamp",
+     "t": "A stamp card nobody loses",
+     "s": "Staff stamp from any phone."
+    },
+    {
+     "icon": "chat",
+     "t": "Complaints come to you first",
+     "s": "Privately, before Google."
+    },
+    {
+     "icon": "star",
+     "t": "Every Google review answered",
+     "s": "Replies go out in your name."
+    }
+   ],
+   "alt": "Four benefits: menu updates, digital stamp card, private feedback, review replies."
+  },
+  {
+   "type": "steps",
+   "kicker": "Setup",
+   "title": "Live in *10 minutes.*",
+   "steps": [
+    {
+     "t": "Answer four questions",
+     "s": "Name, type of business, a colour, a reward."
+    },
+    {
+     "t": "Snap a photo of your menu",
+     "s": "We read it and fill in your items for you."
+    },
+    {
+     "t": "Print your QR cards",
+     "s": "On any home printer. Tables, counter, window."
+    }
+   ],
+   "alt": "Three setup steps: answer four questions, photo of menu, print QR cards."
+  },
+  {
+   "type": "cta",
+   "kicker": "Try it on your own café",
+   "title": "Free for\\n*7 days.*",
+   "sub": "Set it up tonight. No card needed.",
+   "chips": [
+    "Menu",
+    "Stamp card",
+    "Wi-Fi",
+    "Reviews"
+   ],
+   "qr": "https://www.tapmore.in",
+   "link": "tapmore.in",
+   "alt": "Try Tapmore free for 7 days, no card needed. QR code to tapmore.in."
+  }
+ ]
+}
