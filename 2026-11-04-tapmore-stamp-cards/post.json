@@ -1,0 +1,77 @@
+{
+ "theme": "tapmore",
+ "handle": "@nexloop.io",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "For café, salon & shop owners",
+   "title": "~~Paper stamp cards~~\\n*are dead.*",
+   "sub": "Here's what replaced them.",
+   "alt": "Cover: Paper stamp cards are dead. Here's what replaced them."
+  },
+  {
+   "type": "text",
+   "kicker": "The problem",
+   "title": "A stamp card only works *if it comes back.*",
+   "body": "Paper cards get lost, washed with the jeans or left at home. When the card is gone, so is the reason to return.",
+   "alt": "A stamp card only works if it comes back. Paper cards get lost or left at home."
+  },
+  {
+   "type": "compare",
+   "kicker": "Old vs new",
+   "title": "Paper card vs *digital card*",
+   "left": {"label": "Paper card", "items": ["Lost in a wallet", "Forgotten at home", "Reprint to change the reward", "You never know who has one"]},
+   "right": {"label": "Tapmore stamp card", "items": ["Opens with the phone camera", "No app to download", "Change the reward anytime", "Works on slow 4G"]},
+   "alt": "Comparison of a paper stamp card and the Tapmore digital stamp card."
+  },
+  {
+   "type": "phone",
+   "bg": "accent",
+   "kicker": "What your guest sees",
+   "title": "Scan the QR. *See the stamps.*",
+   "body": "The card lives on your page, in your colours. Guests just open it with their camera.",
+   "screen": {
+    "name": "Brew & Co.",
+    "tagline": "Coffee · Brunch",
+    "rows": [
+     {"kind": "stamps", "on": 6, "of": 8, "label": "2 more for a free coffee"},
+     {"kind": "wifi", "ssid": "BrewCo_Guest"}
+    ]
+   },
+   "alt": "Illustration of a Tapmore page on a phone showing a stamp card with 6 of 8 stamps."
+  },
+  {
+   "type": "steps",
+   "kicker": "How it works",
+   "title": "From scan to *free coffee*",
+   "steps": [
+    {"t": "Guest scans your QR", "s": "With the phone camera. No app."},
+    {"t": "Staff add a stamp", "s": "From any phone at the till."},
+    {"t": "The reward unlocks", "s": "A free coffee, a haircut, whatever you pick."}
+   ],
+   "alt": "Three steps: guest scans the QR, staff add a stamp from any phone, the reward unlocks."
+  },
+  {
+   "type": "grid",
+   "kicker": "Built for a busy counter",
+   "title": "Small details, *done right*",
+   "cards": [
+    {"icon": "stamp", "t": "Stamp from any phone", "s": "No special device at the till."},
+    {"icon": "users", "t": "Staff till login", "s": "Staff stamp without seeing your dashboard."},
+    {"icon": "repeat", "t": "Change the reward", "s": "Same printed QR, latest version."},
+    {"icon": "star", "t": "Birthday rewards", "s": "A treat sent by email."}
+   ],
+   "alt": "Four details: stamp from any phone, staff till login, change the reward anytime, birthday rewards by email."
+  },
+  {
+   "type": "cta",
+   "kicker": "Swap your paper cards tonight",
+   "title": "Free for\\n*7 days.*",
+   "sub": "Set it up yourself in ten minutes. No card needed.",
+   "chips": ["Stamp card", "Menu", "Wi-Fi", "Reviews"],
+   "qr": "https://www.tapmore.in",
+   "link": "tapmore.in",
+   "alt": "Try Tapmore free for 7 days, no card needed. QR code to tapmore.in."
+  }
+ ]
+}
